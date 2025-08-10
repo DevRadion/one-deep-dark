@@ -1,0 +1,7 @@
+id = "one-dark-pro-max-fix"
+name = "One Deep Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Radion Rusnak"]
+description = "One Dark theme with black background"
+repository = "https://github.com/DevRadion/one-deep-dark"
